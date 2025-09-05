@@ -6,6 +6,7 @@ It covers the complete process of data collection, storage, querying, analysis, 
 🔹 SQL Project – Google Form to SQL Database
 
 📌 Objectives
+
 Create a Google Form and connect it to a MySQL database via Pabbly Connect.
 Store responses in real-time for structured data management.
 Build a clean table schema to handle student academic and internship details.
