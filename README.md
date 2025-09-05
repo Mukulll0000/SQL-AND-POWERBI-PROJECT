@@ -1,5 +1,7 @@
 # SQL-AND-POWERBI-PROJECT
 
+🚀 Project Overview
+
 This repository showcases my work in SQL and Power BI, demonstrating end-to-end data analytics capabilities.
 It covers the complete process of data collection, storage, querying, analysis, and visualization, aimed at deriving actionable business insights.
 
@@ -7,37 +9,52 @@ It covers the complete process of data collection, storage, querying, analysis, 
 
 📌 Objectives
 
-Create a Google Form and connect it to a MySQL database via Pabbly Connect.
+-Create a Google Form and connect it to a MySQL database via Pabbly Connect.
 
-Store responses in real-time for structured data management.
+-Store responses in real-time for structured data management.
 
-Build a clean table schema to handle student academic and internship details.
+-Build a clean table schema to handle student academic and internship details.
 
-Enable a reliable data foundation for further reporting and analysis.
+-Enable a reliable data foundation for further reporting and analysis.
 
 🛠 Tools & Technologies
-Google Forms
-Pabbly Connect
-MySQL
+
+-Google Forms
+
+-Pabbly Connect
+
+-MySQL
 
 ✅ Key Features
-Real-time form responses stored in SQL.
-Structured schema for easy queries.
+
+-Real-time form responses stored in SQL.
+
+-Structured schema for easy queries.
 
 🔹 Power BI Projects
+
 📌 Objectives
-Transform raw data into interactive dashboards.
-Provide clear insights through visual storytelling.
-Showcase both mini and major projects with different complexities.
+
+-Transform raw data into interactive dashboards.
+
+-Provide clear insights through visual storytelling.
+
+-Showcase both mini and major projects with different complexities.
 
 🛠 Tools & Technologies
-Power BI Desktop
-Power Query (for cleaning)
-DAX (Data Analysis Expressions)
+
+-Power BI Desktop
+
+-Power Query (for cleaning)
+
+-DAX (Data Analysis Expressions)
 
 ✅ Dashboard Features
+
 📊 Rich visualizations: bar, line, pie, KPIs, and maps.
+
 🔍 Dynamic filters and slicers for interactivity.
+
 📈 Insights on trends, growth, and key performance indicators.
 ✅ Mini projects: small-scale datasets.
 ✅ Major projects: comprehensive analysis dashboards
