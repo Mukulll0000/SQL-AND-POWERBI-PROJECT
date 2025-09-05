@@ -8,8 +8,11 @@ It covers the complete process of data collection, storage, querying, analysis, 
 📌 Objectives
 
 Create a Google Form and connect it to a MySQL database via Pabbly Connect.
+
 Store responses in real-time for structured data management.
+
 Build a clean table schema to handle student academic and internship details.
+
 Enable a reliable data foundation for further reporting and analysis.
 
 🛠 Tools & Technologies
