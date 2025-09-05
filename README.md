@@ -31,6 +31,8 @@ It covers the complete process of data collection, storage, querying, analysis, 
 
 -Structured schema for easy queries.
 
+
+
 🔹 Power BI Projects
 
 📌 Objectives
